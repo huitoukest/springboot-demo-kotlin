@@ -47,7 +47,7 @@ spring:
    #entity-manager-factory-ref: entityManagerFactory
    #transaction-manager-ref: transactionManager
 server:
-  port: 8080
+  port: 8085
   connection-timeout: 5000
   context-path: /spring
   tomcat:
